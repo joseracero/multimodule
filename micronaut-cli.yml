@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.jart
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, gradle, http-client, java, java-application, junit, logback, lombok, micronaut-build, netty-server, readme, serialization-jackson, shade, yaml]
